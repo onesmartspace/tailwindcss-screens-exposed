@@ -1,4 +1,11 @@
 {
-  "name": "onesmartspace-tailwindcss-screens-exposed",
-  "main": "./index.js"
+  "name": "@onesmartspace/tailwindcss-screens-exposed",
+  "version": "0.0.1",
+  "description": "A Tailwind CSS plugin for automatically adding current screen size identifier to browser's window.",
+  "main": "index.js",
+  "repository": "https://github.com/onesmartspace/tailwindcss-screens-exposed",
+  "license": "MIT",
+  "devDependencies": {
+    "tailwindcss": "^3.2.2"
+  }
 }
